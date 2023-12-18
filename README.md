@@ -9,6 +9,7 @@ Now as we all might know CNN (Convlutional Neural Network) or what it is i guess
 
 In the Code.. file there are comments to help you out with what the specific fuction is performing briefly
 
-What this model Provided : Validation Accuracy = ranging from 80% - 90% if you are getting more i would request you to increase the dataset and epochs
-                           Loss = reduced to 15% - 25% 
+What this model Provided : Validation Accuracy = ranging from 80% - 90%  
+if you are getting more i would request you to increase the dataset and epochs.
+                           
 
