@@ -1,15 +1,13 @@
-# Brain_Tumor_Detection
+# Brain Tumor Detection
 
-Note : this repo only consists of the back end code 
+**Note:** This repository contains only the backend code.
 
-This project does dense layer classification which involves supervised training of the model so using a large dataset is a must !!
+This project implements dense layer classification through supervised training, requiring a large dataset for optimal performance. The model leverages a Convolutional Neural Network (CNN) for tumor detection. Familiarity with CNN and its three layers is recommended.
 
-Now as we all know CNN (Convolutional Neural Network) or what it is  
-..if not then it is advised to get a basic grasp of CNN and its three layers as in this project we have used CNN for tumor/cancer detection
+The `Code.py` file includes comments to guide you through the functionality of specific functions.
 
-In the Code.py file there are comments to help you out with what the specific fuction is performing .
-
-What this model Provided : Validation Accuracy = ranging from 84% - 92%  
-if you are getting more(accuracy) it is recommended to increase the size of the dataset and number of epochs.
+**Model Performance:**  
+Validation Accuracy: 84% - 92%  
+For higher accuracy, consider increasing the dataset size and the number of training epochs.
                            
 
